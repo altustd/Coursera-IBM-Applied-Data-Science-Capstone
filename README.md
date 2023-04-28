@@ -6,7 +6,7 @@ Jupyter Notebooks
 1.  Data Collection: 
 	jupyter-labs-spacex-data-collection-api.ipynb
 
-2.  Wb Scraping: 
+2.  Web Scraping: 
 	jupyter-labs-webscraping.ipynb
 
         
